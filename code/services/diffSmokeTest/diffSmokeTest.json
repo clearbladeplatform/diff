@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,diff",
+    "logging_enabled": "false",
+    "name": "diffSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "diffSmokeTest.js"
+}
